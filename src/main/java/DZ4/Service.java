@@ -72,7 +72,7 @@ public class Service {
 				obj = c.newInstance();
 				Class b = obj.getClass();
 				service = tokenizerStr.nextToken();
-				//System.out.println("service =" + service);
+				//System.out.println("service =" + service);:
 				// Method m = b.getMethod(service, paramTypes);
 				arrArg = new ArrayList<String>();
 				arrType = new ArrayList<Class>();
