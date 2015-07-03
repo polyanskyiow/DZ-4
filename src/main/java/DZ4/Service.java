@@ -65,7 +65,7 @@ public class Service {
 			try {
 				LOGGER.info("Begin read string №" + (i+1));
 				StringTokenizer tokenizerStr = new StringTokenizer(text.get(i)," ");
-				// System.out.println("Tokens=" + tokenizerStr.countTokens());;
+				// System.out.println("Tokens=" + tokenizerStr.countTokens());
 				str = tokenizerStr.nextToken();
 				//System.out.println("Class" + str);
 				Class c = Class.forName(str);
