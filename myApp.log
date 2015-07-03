@@ -1,0 +1,18 @@
+2015-06-24 12:00:49 INFO  Service:66 - Begin read string №1
+2015-06-24 12:00:49 INFO  Service:86 - End reading string №1
+2015-06-24 12:00:49 INFO  Service:92 - class=DZ4.ServiceClass2 method=serviceMethod1 with parametrs=[arg1, arg1, arg1]
+2015-06-24 12:00:49 DEBUG Service:93 - RESULT OF METHOD = You call Service2
+2015-06-24 12:00:49 INFO  Service:66 - Begin read string №2
+2015-06-24 12:00:49 ERROR Service:96 - class= 1 not found
+2015-06-24 12:00:49 INFO  Service:66 - Begin read string №3
+2015-06-24 12:00:49 ERROR Service:104 - class= 1 not found
+2015-06-24 12:00:49 INFO  Service:66 - Begin read string №4
+2015-06-24 12:00:49 ERROR Service:108 - class=DZ4.ServiceClass1 method=serviceMethod1 with parametrs=[arg1, arg1] not found
+2015-06-24 12:00:49 INFO  Service:66 - Begin read string №5
+2015-06-24 12:00:49 INFO  Service:86 - End reading string №5
+2015-06-24 12:00:49 INFO  Service:92 - class=DZ4.ServiceClass1 method=serviceMethod1 with parametrs=[arg1]
+2015-06-24 12:00:49 DEBUG Service:93 - RESULT OF METHOD = You call Service1
+2015-06-24 12:00:49 INFO  Service:66 - Begin read string №6
+2015-06-24 12:00:49 INFO  Service:86 - End reading string №6
+2015-06-24 12:00:49 INFO  Service:92 - class=DZ4.ServiceClass2 method=serviceMethod1 with parametrs=[arg1, arg1, arg1]
+2015-06-24 12:00:49 DEBUG Service:93 - RESULT OF METHOD = You call Service2

@@ -1,0 +1,6 @@
+DZ4.ServiceClass2 serviceMethod1 arg1 arg1 arg1
+1
+
+DZ4.ServiceClass1 serviceMethod1 arg1 arg1
+DZ4.ServiceClass1 serviceMethod1 arg1
+DZ4.ServiceClass2 serviceMethod1 arg1 arg1 arg1
